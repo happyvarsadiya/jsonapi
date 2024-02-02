@@ -1,0 +1,39 @@
+.imagelogo{
+  height: 80px;
+  width: 100px;
+  margin: 10px 0px;
+  margin-right: 500px;
+}
+.menus{
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.mainul{
+  list-style: none;
+  justify-content: center;
+  background-color: #21355c;
+}
+.dropmenu{
+  color: #FCA311 !important;
+  text-decoration: none !important;
+}
+.mainul li > a{
+  color: inherit;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.alldiv{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  padding: 40px;
+  background-color: #7e909e;
+}
+
+.card{
+  background-image: linear-gradient(180deg, #234E70, #E7E8D1);
+  padding: 0px 20px;
+  text-align: center;
+  color: white !important;
+  font-size: 18px;
+}
